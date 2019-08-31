@@ -56,8 +56,8 @@ The Console app will prompt the following options:
 
 Just type the number of the desired option.
 
-Options 1-4 will require you to provide the image/video full path in order to process.
-Option 4 will generate a JobId wich should be used when requesting for Option 5.
+Options 1-3 will require you to provide the image's full path in order to process.
+Option 4 will require the S3 bucket name and file name to generate a JobId wich should be used when requesting for Option 5.
 
 ### Issues/Questions
 I Hope this project can help Software Engineers that need to quickly setup integrations with Rekognition.
